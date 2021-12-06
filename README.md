@@ -34,8 +34,7 @@ cron.schedule('* * * * *', () => {
 ('running a task every two minutes')
 
 '* * * January,September Sunday'
-('running on Sundays of January and September')
-
 '* * * Jan,Sep Sun'
+('running on Sundays of January and September')
 
 ```
